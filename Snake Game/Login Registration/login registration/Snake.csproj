@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>login_registration</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\body.png" />
+    <None Remove="Assets\deathBody.png" />
+    <None Remove="Assets\DeathHeadfp.png" />
+    <None Remove="Assets\DroidSansMono.ttf" />
+    <None Remove="Assets\food.png" />
+    <None Remove="Assets\headfp.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.19.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\body.png" />
+    <Resource Include="Assets\deathBody.png" />
+    <Resource Include="Assets\DeathHeadfp.png" />
+    <Resource Include="Assets\DroidSansMono.ttf" />
+    <Resource Include="Assets\food.png" />
+    <Resource Include="Assets\headfp.png" />
+  </ItemGroup>
+
+</Project>

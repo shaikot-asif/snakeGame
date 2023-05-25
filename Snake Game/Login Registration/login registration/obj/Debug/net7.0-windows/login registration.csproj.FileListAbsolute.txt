@@ -1,0 +1,21 @@
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.csproj.AssemblyReference.cache
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\MainWindow.g.cs
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\App.g.cs
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration_MarkupCompile.cache
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration_MarkupCompile.lref
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\bin\Debug\net7.0-windows\login registration.exe
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\bin\Debug\net7.0-windows\login registration.deps.json
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\bin\Debug\net7.0-windows\login registration.runtimeconfig.json
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\bin\Debug\net7.0-windows\login registration.dll
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\bin\Debug\net7.0-windows\login registration.pdb
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\MainWindow.baml
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.g.resources
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.GeneratedMSBuildEditorConfig.editorconfig
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.AssemblyInfoInputs.cache
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.AssemblyInfo.cs
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.csproj.CoreCompileInputs.cache
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.dll
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\refint\login registration.dll
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.pdb
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\login registration.genruntimeconfig.cache
+H:\BUBT CSE\4th semester\SDP-2\login reg\login registration\login registration\obj\Debug\net7.0-windows\ref\login registration.dll
